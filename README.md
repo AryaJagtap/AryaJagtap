@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arya Jagtap</h1>
 <h3 align="center">A Computer Engineer Student From Mumbai University.</h3>
 
-<img border-radius : 50px align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img style = "border-radius : 50px " align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryajagtap&label=Profile%20views&color=0e75b6&style=flat" alt="aryajagtap" /> </p>
 

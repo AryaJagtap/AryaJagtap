@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arya Jagtap</h1>
+<h1 align="center">Hi, I'm Arya Jagtap</h1>
 <h3 align="center">A Computer Engineer Student From Mumbai University.</h3>
 
 
